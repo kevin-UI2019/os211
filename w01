@@ -1,44 +1,77 @@
-#Top 10 List of Week 01
+---
+layout: "layout"
+permalink: /W01/
+---
 
-[Debian vs Ubuntu](https://www.fosslinux.com/40109/debian-vs-ubuntu-everything-you-need-to-know-to-choose)
+# Top 10 List of Week 01
 
-Link ini berisi perbandingan antara debian dengan ubuntu seperti dari desktop environment , performanya , cara instalasinya dan lain-lain. Apakah ubuntu lebih efektif atau debian 
-yang lebih efektif?
+1. [One](https://en.wikipedia.org/wiki/1)<br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Vestibulum id dapibus odio, a hendrerit dui.
+Aenean euismod augue tortor, efficitur pulvinar sem scelerisque ac.
+Sed mauris dolor, maximus eget congue vitae, ultricies id arcu.
+Aenean auctor efficitur urna pharetra pellentesque.
 
-[6 Jenis Sistem Operasi di PC](https://www.fosslinux.com/40109/debian-vs-ubuntu-everything-you-need-to-know-to-choose)
+2. [Two](https://en.wikipedia.org/wiki/2)<br>
+Nunc aliquet, nulla non hendrerit sodales, ante ligula fermentum lacus, a fringilla tortor ipsum nec velit.
+Sed ac enim tempus, imperdiet lacus et, fringilla tellus.
+Nunc laoreet pellentesque sapien non finibus.
+Ut blandit lacus eget ante sollicitudin bibendum.
+Aliquam ultricies imperdiet vestibulum.
 
-Link ini berisi tentang jenis-jenis operasi sistem di PC.Banyak orang hanya mengetahu dua sistem operasi yang digunakan di PC, yakni Windows dan MacOS. Padahal, 
-sebenarnya ada lagi beberapa jenis sistem operasi lainnya yang bisa kamu gunakan, lho!
+3. [Three](https://en.wikipedia.org/wiki/3)<br>
+Phasellus accumsan vel arcu non aliquet.
+Nullam vitae libero quis nisi molestie imperdiet.
+Sed in dapibus justo.
+Mauris nec magna sagittis, tincidunt diam quis, hendrerit odio.
+Etiam eu porttitor odio.
 
-[Terminal vs. Bash vs. Command line vs. Prompt](https://www.youtube.com/watch?v=hMSByvFHOro)
+4. [Four](https://en.wikipedia.org/wiki/4)<br>
+Nunc et mi ac urna gravida rutrum.
+Ut diam nunc, ultrices quis rutrum non, efficitur nec lectus.
+Interdum et malesuada fames ac ante ipsum primis in faucibus.
+Quisque vitae lobortis ante. 
+Nunc vehicula libero at nunc iaculis, sed feugiat sapien aliquet.
 
-Kita sudah pernah mendengar istilah diatas bahkan sudah sering menggunakannya namun sebenarnya apa perbedaan dari terminal,bash,command line dan prompt. Video ini menjelaskan
-perbedaan dan persamaannya.
+5. [Five](https://en.wikipedia.org/wiki/5)<br>
+Aenean justo ante, scelerisque at ipsum at, rhoncus semper libero.
+Vestibulum scelerisque sem mollis elit lacinia, vel tristique massa placerat.
+Nam laoreet ante vitae sem mattis posuere.
+Vivamus imperdiet erat vitae vehicula consectetur.
+Suspendisse molestie dui quam, vel rutrum felis faucibus ac.
 
-[Tutorial mengenal bash](https://www.youtube.com/watch?v=_n5ZegzieSQ)
+6. [Six](https://en.wikipedia.org/wiki/6)<br>
+Vestibulum magna quam, fermentum a vehicula sodales, condimentum vitae lectus.
+In hac habitasse platea dictumst.
+Nunc luctus faucibus arcu dignissim lobortis.
+Etiam dapibus ex id hendrerit porttitor.
+Suspendisse quis mattis enim.
 
-Link ini berisikan tutorial dasar mengenai bash  
+7. [Seven](https://en.wikipedia.org/wiki/7)<br>
+Curabitur ut orci quis quam cursus hendrerit vel pulvinar metus
+Phasellus blandit nunc consequat eros aliquam porta.
+Pellentesque sapien diam, facilisis tincidunt accumsan quis, accumsan suscipit velit. 
+Morbi id est maximus, maximus urna eu, auctor odio. 
+Nunc sit amet dictum ipsum.
 
-[Tutorial mengenal regex](https://www.youtube.com/watch?v=sa-TUpSx1JA)
+8. [Eight](https://en.wikipedia.org/wiki/8)<br>
+Curabitur mauris neque, mollis feugiat ante id, molestie eleifend nunc.
+Cras tincidunt bibendum dignissim.
+Donec non mauris tincidunt, aliquam lorem eget, porta odio.
+Maecenas ac arcu urna.
+Cras congue tellus lacus.
 
-Link ini berisikan tutorial dasar mengenai regex 
+9. [Nine](https://en.wikipedia.org/wiki/9)<br>
+Mauris urna libero, varius in purus nec, tempor pharetra lorem.
+Vivamus lorem nisi, mattis ut tellus at, tincidunt cursus libero.
+Curabitur vehicula placerat neque eget iaculis.
+Nulla facilisi.
+Cras condimentum leo a libero cursus lacinia.
 
-[Command git yang harus diketahui](https://education.github.com/git-cheat-sheet-education.pdf)
+10. [Ten](https://en.wikipedia.org/wiki/10)<br>
+Nunc imperdiet gravida lorem vitae tincidunt. 
+Phasellus tristique nulla at justo finibus pulvinar.
+Phasellus in leo vitae sem congue sollicitudin eu sed risus.
+Aliquam erat volutpat.
+Proin in erat fringilla, pulvinar nisl quis, vulputate purus.
 
-Link ini berisikan list command git yang harus kita ketahui. Dengan membaca dan menghapal beberapa command git ini dapat memudahkan kita saat berhubungan dengan git
-
-[SSH](https://www.niagahoster.co.id/blog/apa-itu-ssh/)
-
-Link ini berisika penjelasan singkat mengenai segala sesuatu tentang ssh. Pentingnya kita untuk mengetahui apa itu ssh karena kita akan sering sekali berkerja berkaitan dengan ssh.
-
-[Sumber buku-buku lain](http://www.freebookcentre.net/ComputerScience-Books-Download/Operating-System-Concepts-(PDF-90P)
-
-Link ini berisikan link untuk mendownload buku-buku sistem operasi. Tujuannya adalah kita bisa belajar melalui beberapa sumber lain
-
-[Command vi](https://vim.rtorr.com)
-
-Link ini berisika penjelasan singkat mengenai segala sesuatu tentang ssh. Pentingnya kita untuk mengetahui command apa saja yang ada di vi karena kita akan sering sekali berkerja berkaitan dengan vi-
-
-[Perkembangan Sistem Operasi](https://study.com/academy/lesson/history-of-operating-systems-timeline-evolution)
-
-Dan yang terakhir ada link yang berisikan perkembangan sistem operasi.
