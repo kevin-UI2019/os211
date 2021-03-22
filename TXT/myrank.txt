@@ -4,3 +4,8 @@
 ZCZC W01 mackarelfish
 ZCZC W01 mardianto-byte
 ZCZC W01 luthfifahlevi
+
+#Week 02
+ZCZC W02 kgtgeo
+ZCZC W02 marcianadin
+ZCZC W02 machffud
