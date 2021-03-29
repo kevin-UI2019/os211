@@ -41,3 +41,17 @@ ZCZC W03 30 L05 GSGS Related
 ZCZC W03 15 L23 Checking Discord
 ZCZC W03 30 L01 SCELE related
 ZCZC W03 30 L03 GitHub related
+ZCZC W04 90 L02 ZOOM related
+ZCZC W04 150 L06 Reading References/Books/Documents
+ZCZC W04 60 L11 Assignment #1 Chapter 9
+ZCZC W04 60 L12 Assignment #2
+ZCZC W04 15 L13 Assignment #3
+ZCZC W04 120 L14 Assignment #4
+ZCZC W04 30 L15 Assignment #5
+ZCZC W04 30 L16 Assignment #6
+ZCZC W04 30 L17 Assignment #7
+ZCZC W04 30 L18 Assignment #8
+ZCZC W04 30 L05 GSGS Related
+ZCZC W04 15 L23 Checking Discord
+ZCZC W04 30 L01 SCELE related
+ZCZC W04 30 L03 GitHub related
