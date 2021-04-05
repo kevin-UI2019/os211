@@ -14,3 +14,8 @@ ZCZC W02 machffud
 ZCZC W03 machffud
 ZCZC W03 marioserano
 ZCZC W03 memahafizh
+
+#Week 04
+ZCZC W04 KristiantoD
+ZCZC W04 MarioSerano
+ZCZC W04 luthfifahlevi
