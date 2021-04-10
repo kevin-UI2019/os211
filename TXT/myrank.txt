@@ -19,3 +19,8 @@ ZCZC W03 memahafizh
 ZCZC W04 KristiantoD
 ZCZC W04 MarioSerano
 ZCZC W04 luthfifahlevi
+
+#Week 05
+ZCZC W05 mardianto-byte
+ZCZC W05 mackarelfish
+ZCZC W05 memahafizh
