@@ -17,7 +17,7 @@
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 
-REC2="kevin2wangsa@gmail.com"
+REC2="kevin4wangsa@gmail.com"
 REC1="operatingsystems@vlsm.org"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
