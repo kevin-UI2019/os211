@@ -24,3 +24,8 @@ ZCZC W04 luthfifahlevi
 ZCZC W05 mardianto-byte
 ZCZC W05 mackarelfish
 ZCZC W05 memahafizh
+
+#Week 06
+ZCZC W06 kgtgeo
+ZCZC W06 KristiantoD
+ZCZC W06 machffud
