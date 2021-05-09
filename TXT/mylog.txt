@@ -96,3 +96,16 @@ ZCZC W07 15 L03 GitHub related
 ZCZC W07 15 L07 Demo related Week06
 ZCZC W07 20 L07 Demo related Week07
 ZCZC W07 20 L07 Demo related Week08
+ZCZC W08 90 L02 ZOOM related
+ZCZC W08 30 L06 Reading References/Books/Documents
+ZCZC W08 200 L11 Assignment #1 Chapter 5
+ZCZC W08 90 L12 Assignment #2
+ZCZC W08 90 L13 Assignment #3
+ZCZC W08 60 L14 Assignment #4
+ZCZC W08 30 L15 Assignment #5
+ZCZC W08 30 L16 Assignment #6
+ZCZC W08 20 L05 GSGS Related
+ZCZC W08 60 L01 SCELE related
+ZCZC W08 30 L03 GitHub related
+ZCZC W08 30 L07 Demo related Week08
+ZCZC W08 30 L23 Checking Discord
