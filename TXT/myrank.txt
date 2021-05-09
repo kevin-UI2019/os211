@@ -29,3 +29,8 @@ ZCZC W05 memahafizh
 ZCZC W06 kgtgeo
 ZCZC W06 KristiantoD
 ZCZC W06 machffud
+
+#Week 07
+ZCZC W07 mardianto-byte
+ZCZC W07 marcianadin
+ZCZC W07 mackarelfish
